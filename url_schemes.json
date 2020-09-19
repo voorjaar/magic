@@ -1,0 +1,402 @@
+{
+    "taobao": {
+        "id": "taobao",
+        "name": "淘宝",
+        "url": "taobao://"
+    },
+    "tmall": {
+        "id": "tmall",
+        "name": "天猫",
+        "url": "tmall://"
+    },
+    "jd": {
+        "id": "jd",
+        "name": "京东",
+        "url": "openApp.jdMobile://"
+    },
+    "pinduoduo": {
+        "id": "pinduoduo",
+        "name": "拼多多",
+        "url": "pinduoduo://"
+    },
+    "yanxuan": {
+        "id": "yanxuan",
+        "name": "网易严选",
+        "url": "yanxuan://"
+    },
+    "vipshop": {
+        "id": "vipshop",
+        "name": "唯品会",
+        "url": "vipshop://"
+    },
+    "suning": {
+        "id": "suning",
+        "name": "苏宁易购",
+        "url": "suning://"
+    },
+    "mishopv1": {
+        "id": "mishopv1",
+        "name": "小米商城",
+        "url": "mishopv1://"
+    },
+    "wireless1688": {
+        "id": "wireless1688",
+        "name": "阿里巴巴",
+        "url": "wireless1688://"
+    },
+    "weixin": {
+        "id": "weixin",
+        "name": "微信",
+        "url": "weixin://"
+    },
+    "wxwork": {
+        "id": "wxwork",
+        "name": "企业微信",
+        "url": "wxwork://"
+    },
+    "dingtalk": {
+        "id": "dingtalk",
+        "name": "钉钉",
+        "url": "dingtalk://"
+    },
+    "mqq": {
+        "id": "mqq",
+        "name": "QQ",
+        "url": "mqqapi://"
+    },
+    "tim": {
+        "id": "tim",
+        "name": "TIM",
+        "url": "tim://"
+    },
+    "momochat": {
+        "id": "momochat",
+        "name": "陌陌",
+        "url": "momochat://"
+    },
+    "tantanapp": {
+        "id": "tantanapp",
+        "name": "探探",
+        "url": "tantanapp://"
+    },
+    "telegram": {
+        "id": "telegram",
+        "name": "Telegram",
+        "url": "telegram://"
+    },
+    "weibo": {
+        "id": "weibo",
+        "name": "微博",
+        "url": "sinaweibo://"
+    },
+    "zhihu": {
+        "id": "zhihu",
+        "name": "知乎",
+        "url": "zhihu://"
+    },
+    "xhsdiscover": {
+        "id": "xhsdiscover",
+        "name": "小红书",
+        "url": "xhsdiscover://"
+    },
+    "mqzone": {
+        "id": "mqzone",
+        "name": "QQ空间",
+        "url": "mqzone://"
+    },
+    "huputiyu": {
+        "id": "huputiyu",
+        "name": "虎扑",
+        "url": "huputiyu://"
+    },
+    "baidutieba": {
+        "id": "baidutieba",
+        "name": "百度贴吧",
+        "url": "com.baidu.tieba://"
+    },
+    "douban": {
+        "id": "douban",
+        "name": "豆瓣",
+        "url": "douban://"
+    },
+    "jike": {
+        "id": "jike",
+        "name": "即刻",
+        "url": "jike://"
+    },
+    "jiejinghe": {
+        "id": "jiejinghe",
+        "name": "捷径盒",
+        "url": "jiejinghe://"
+    },
+    "sharecuts": {
+        "id": "sharecuts",
+        "name": "捷径社区",
+        "url": "sharecuts://"
+    },
+    "snssdk1128": {
+        "id": "snssdk1128",
+        "name": "抖音",
+        "url": "snssdk1128://"
+    },
+    "snssdk1112": {
+        "id": "snssdk1112",
+        "name": "火山",
+        "url": "snssdk1112://"
+    },
+    "snssdk32": {
+        "id": "snssdk32",
+        "name": "西瓜视频",
+        "url": "snssdk32://"
+    },
+    "gifshow": {
+        "id": "gifshow",
+        "name": "快手",
+        "url": "gifshow://"
+    },
+    "tenvideo": {
+        "id": "tenvideo",
+        "name": "腾讯视频",
+        "url": "tenvideo://"
+    },
+    "youku": {
+        "id": "youku",
+        "name": "优酷",
+        "url": "youku://"
+    },
+    "bilibili": {
+        "id": "bilibili",
+        "name": "哔哩哔哩",
+        "url": "bilibili://"
+    },
+    "imgotv": {
+        "id": "imgotv",
+        "name": "芒果TV",
+        "url": "imgotv://"
+    },
+    "iqiyi": {
+        "id": "iqiyi",
+        "name": "爱奇艺",
+        "url": "iqiyi://"
+    },
+    "hanju": {
+        "id": "hanju",
+        "name": "韩剧TV",
+        "url": "hanju://"
+    },
+    "douyutv": {
+        "id": "douyutv",
+        "name": "斗鱼",
+        "url": "douyutv://"
+    },
+    "yykiwi": {
+        "id": "yykiwi",
+        "name": "虎牙",
+        "url": "yykiwi://"
+    },
+    "youtube": {
+        "id": "youtube",
+        "name": "YouTube",
+        "url": "youtube://"
+    },
+    "qqmusic": {
+        "id": "qqmusic",
+        "name": "QQ音乐",
+        "url": "qqmusic://"
+    },
+    "orpheuswidget": {
+        "id": "orpheuswidget",
+        "name": "网易云音乐",
+        "url": "orpheuswidget://"
+    },
+    "kugou": {
+        "id": "kugou",
+        "name": "酷狗音乐",
+        "url": "kugouURL://"
+    },
+    "qmkege": {
+        "id": "qmkege",
+        "name": "全民K歌",
+        "url": "qmkege://"
+    },
+    "changba": {
+        "id": "changba",
+        "name": "唱吧",
+        "url": "changba://"
+    },
+    "imeituan": {
+        "id": "imeituan",
+        "name": "美团",
+        "url": "imeituan://"
+    },
+    "meituanwaimai": {
+        "id": "meituanwaimai",
+        "name": "美团外卖",
+        "url": "meituanwaimai://"
+    },
+    "dianping": {
+        "id": "dianping",
+        "name": "大众点评",
+        "url": "dianping://"
+    },
+    "cainiao": {
+        "id": "cainiao",
+        "name": "菜鸟裹裹",
+        "url": "cainiao://"
+    },
+    "wbmain": {
+        "id": "wbmain",
+        "name": "58同城",
+        "url": "wbmain://"
+    },
+    "mihome": {
+        "id": "mihome",
+        "name": "米家",
+        "url": "mihome://"
+    },
+    "xcfapp": {
+        "id": "xcfapp",
+        "name": "下厨房",
+        "url": "xcfapp://"
+    },
+    "sbuxcn": {
+        "id": "sbuxcn",
+        "name": "星巴克中国",
+        "url": "sbuxcn://"
+    },
+    "ctripwireless": {
+        "id": "ctripwireless",
+        "name": "携程旅行",
+        "url": "CtripWireless://"
+    },
+    "diditaxi": {
+        "id": "diditaxi",
+        "name": "滴滴",
+        "url": "diditaxi://"
+    },
+    "taobaotravel": {
+        "id": "taobaotravel",
+        "name": "飞猪",
+        "url": "taobaotravel://"
+    },
+    "travelguide": {
+        "id": "travelguide",
+        "name": "马蜂窝",
+        "url": "travelguide://"
+    },
+    "arena_of_valor": {
+        "id": "arena_of_valor",
+        "name": "王者荣耀",
+        "url": "tencentlaunch1104466820://"
+    },
+    "pubg_mobile": {
+        "id": "pubg_mobile",
+        "name": "和平精英",
+        "url": "tencent1106467070://"
+    },
+    "ixiaochu": {
+        "id": "ixiaochu",
+        "name": "天天爱消除",
+        "url": "tencent100689805://"
+    },
+    "doudizhu": {
+        "id": "doudizhu",
+        "name": "QQ斗地主",
+        "url": "tencent382://"
+    },
+    "reeder": {
+        "id": "reeder",
+        "name": "Reeder",
+        "url": "reeder://"
+    },
+    "toutiao": {
+        "id": "toutiao",
+        "name": "今日头条",
+        "url": "snssdk141://"
+    },
+    "newsapp": {
+        "id": "newsapp",
+        "name": "网易新闻",
+        "url": "newsapp://"
+    },
+    "weread": {
+        "id": "weread",
+        "name": "微信读书",
+        "url": "weread://"
+    },
+    "jianshu": {
+        "id": "jianshu",
+        "name": "简书",
+        "url": "jainshu://"
+    },
+    "alipay": {
+        "id": "alipay",
+        "name": "支付宝",
+        "url": "alipays://"
+    },
+    "mtxx": {
+        "id": "mtxx",
+        "name": "美图秀秀",
+        "url": "mtxx.open"
+    },
+    "iosamap": {
+        "id": "iosamap",
+        "name": "高德地图",
+        "url": "iosamap://"
+    },
+    "baidumap": {
+        "id": "baidumap",
+        "name": "百度地图",
+        "url": "baidumap://"
+    },
+    "baiduyun": {
+        "id": "baiduyun",
+        "name": "百度云盘",
+        "url": "baiduyun://"
+    },
+    "mojiweather": {
+        "id": "mojiweather",
+        "name": "墨迹天气",
+        "url": "rm434209233MojiWeather://"
+    },
+    "evernote": {
+        "id": "evernote",
+        "name": "印象笔记",
+        "url": "evernote://"
+    },
+    "bear": {
+        "id": "bear",
+        "name": "熊掌记",
+        "url": "bear://"
+    },
+    "baiduapp": {
+        "id": "baiduapp",
+        "name": "百度",
+        "url": "bdboxiosqrcode://"
+    },
+    "alook": {
+        "id": "alook",
+        "name": "Alook浏览器",
+        "url": "Alook://"
+    },
+    "pythonista": {
+        "id": "pythonista",
+        "name": "Pythonista",
+        "url": "pythonista://"
+    },
+    "pyto": {
+        "id": "pyto",
+        "name": "Pyto",
+        "url": "pyto://"
+    },
+    "thor": {
+        "id": "thor",
+        "name": "Thor",
+        "url": "thor://"
+    },
+    "shadowrocket": {
+        "id": "shadowrocket",
+        "name": "Shadowrocket",
+        "url": "shadowrocket://"
+    }
+}
